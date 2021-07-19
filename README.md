@@ -1,6 +1,6 @@
 # Liste Schweizer Gemeinden, inkl. Website und E-Mail
 
-The truth shall set you free
+## UNDER CONSTRUCTION WEIL:
 
 #### Probleme bei Schweizer Daten:
 
